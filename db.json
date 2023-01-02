@@ -9,6 +9,11 @@
       "text": "This is feedback item 2 coming from the backend",
       "rating": 6,
       "id": 2
+    },
+    {
+      "text": "Hello brothet",
+      "rating": 4,
+      "id": 3
     }
   ]
 }
